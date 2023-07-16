@@ -5,7 +5,7 @@ var leketNeGjendje = 400;
 Makina audi = new Makina("Audi", "A7", 2014, "Nafte", "Sedan", 3.0, 75, 75, 0.047);
 Makina bmw = new Makina("BMV"," M4 Competition",2008,"Sedan", "Benzine", 3.6, 57, 57, 0.098);
 Makina mercedes = new Makina("Mercedes-Benz","W204",2012,"Sedan","Benzine",6.3,66,66,0.134);
-
+//testtfdtdy
 
 Console.WriteLine("Mire se vini ne AUTO Motors");
 Console.WriteLine("Ju lutem zgjidhni nje makine:");
